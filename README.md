@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="WhatsApp Image 2025-04-04 at 07.43.51.jpeg" width="150" height="150" alt="Sua Foto de Perfil">
-</p>
 <h1 align="center">Gabriel Lopes da Silva</h1>
 <p align="center">Estudante de Engenharia da Computação na UNIVESP | Desenvolvedor em aprendizado (Python, HTML, CSS, JavaScript) | Entusiasta de tecnologia e sempre buscando novos conhecimentos | Em aprendizagem de git e github |
 Não acredito que o céu é o limite, pois quero ir além!</p>
