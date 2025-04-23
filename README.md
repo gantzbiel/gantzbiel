@@ -1,4 +1,4 @@
-<h1 align="center">Gabriel Silva</h1>
+<h1 align="center">Gabriel Lopes</h1>
 <p align="center">Estudante de Engenharia da Computação na UNIVESP | Desenvolvedor em aprendizado (Python, HTML, CSS, JavaScript) | Entusiasta de tecnologia e sempre buscando novos conhecimentos | Em aprendizagem de git e github </p>
 
 
